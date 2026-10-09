@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/orgs/spellcache/discussions
+    about: Ask a question, share an idea or show your setup in GitHub Discussions.
+  - name: Security vulnerability
+    url: https://github.com/spellcache/spellcache/security/advisories/new
+    about: Report security issues privately — never in a public issue.
